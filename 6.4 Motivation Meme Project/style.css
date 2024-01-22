@@ -1,0 +1,49 @@
+body {
+    background-color : black;
+}
+
+/* h1 {
+    color : white;
+    text-align : center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Lemon', serif;
+    font-family: 'Titillium Web', sans-serif;
+    text-transform: uppercase;
+} */
+
+/* p {
+    color : white;
+    text-align : center;
+} */
+
+/* #picture {
+    border : 5px solid yellow;
+    margin-top : 50px;
+} */
+
+/* img {
+    height : 50%;
+    width : 100%;
+} */
+/* creat 3 different div for each elements */
+
+.disneycastle {
+    border : 5px solid yellow;
+    width : 100%;
+}
+
+.poster {
+    width : 50%;
+    margin-left : 25%;
+    margin-top : 100px;
+    color : white;
+    font-family : "Libre Baskerville", serif;
+    text-align : center;
+}
+
+h1 {
+    text-transform : uppercase;
+    font-size : 3rem;
+}
+
+/* create just one div for every element */
