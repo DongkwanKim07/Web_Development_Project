@@ -25,4 +25,17 @@
 .profile-img {
   height: 100px;
   border-radius: 50%;
+  
+}
+
+.container-logo {
+  display : grid;
+  
+  grid-template-columns : 1fr 1fr 1fr 1fr;
+  
+}
+
+#testimonial {
+  justify-content: center;
+  align-items: center;
 }
